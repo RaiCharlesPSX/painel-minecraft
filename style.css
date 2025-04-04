@@ -1,0 +1,16 @@
+
+body {
+  font-family: sans-serif;
+  background-color: #202124;
+  color: #fff;
+  padding: 20px;
+}
+input, button {
+  margin: 5px;
+  padding: 5px;
+}
+#images img {
+  width: 64px;
+  margin: 4px;
+  border: 1px solid #444;
+}
